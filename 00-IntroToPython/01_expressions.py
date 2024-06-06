@@ -18,8 +18,7 @@ import math
 # TODO 2:
 #   Write a statement that prints your name
 ###############################################################################
-
-
+#print("nick loveland")
 ###############################################################################
 # Part 1: Numbers, Arithmetic, and Precedence.
 ###############################################################################
@@ -37,8 +36,8 @@ import math
 
 # print()
 # print("_TODO 3:")
-# print("4 + 8 evaluates to:   ", 4 + 8)
-# print("7 * 10 evaluates to:  ", 7 * 10)
+ # print("4 + 8 evaluates to:   ", 4 + 8)
+ # print("7 * 10 evaluates to:  ", 7 * 10)
 # print("1.53 + 8 evaluates to:", 1.53 + 8)
 
 ###############################################################################

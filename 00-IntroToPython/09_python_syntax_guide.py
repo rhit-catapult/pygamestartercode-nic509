@@ -6,6 +6,7 @@ def main():
     strings()
     loops()
     sequences()
+    list()
 
 
 def variables():
