@@ -29,7 +29,7 @@ def main():
         if pressed_keys[pygame.K_RIGHT]:
             x = x + 5
 
-#print("eee"")
+#print("eee"")g
         screen.fill((255, 255, 255))  # white
 
         # API --> pygame.draw.circle(screen, color, (x, y), radius, thickness)
